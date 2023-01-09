@@ -21,3 +21,11 @@ h1 {
 section {
   height: 500px;
 }
+.link-button {
+  text-decoration: none;
+  background-color: orange;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+}
